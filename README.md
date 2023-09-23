@@ -2,9 +2,6 @@
 Algs graph (strongly connected components) variant 17
 
 
-# bsbo-0405-2022-algs-prak1
-Algs graph (strongly connected components) variant 17
-
 № варианта | Алгоритм Способ представления графа
 1. Дана матрица весов дуг. Определить и вывести все циклы в орграфе,
 заданной длины х (вводится с клавиатуры)
